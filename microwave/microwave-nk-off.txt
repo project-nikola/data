@@ -1,0 +1,34 @@
+2015-01-25 23:01:15,484: INFO:Server               Starting frame consumers...
+2015-01-25 23:01:15,487: INFO:Server               Discovering nodes on network...
+2015-01-25 23:01:15,488: INFO:Server               Starting the frame producer...
+2015-01-25 23:01:15,488: INFO:Producer             Listening for packets...
+2015-01-25 23:01:16,557: INFO:FrameConsumer-2      current: 0.0721 amps	power: 21.7785 watts
+2015-01-25 23:01:18,571: INFO:FrameConsumer-3      current: 0.0759 amps	power: 20.2947 watts
+2015-01-25 23:01:20,616: INFO:FrameConsumer-4      current: 0.0835 amps	power: 20.8892 watts
+2015-01-25 23:01:22,647: INFO:FrameConsumer-5      current: 0.0835 amps	power: 22.1276 watts
+2015-01-25 23:01:24,690: INFO:FrameConsumer-2      current: 0.0721 amps	power: 22.4797 watts
+2015-01-25 23:01:26,720: INFO:FrameConsumer-3      current: 0.0721 amps	power: 23.3615 watts
+2015-01-25 23:01:28,750: INFO:FrameConsumer-4      current: 0.0873 amps	power: 24.1261 watts
+2015-01-25 23:01:30,796: INFO:FrameConsumer-5      current: 0.0797 amps	power: 18.8455 watts
+2015-01-25 23:01:32,826: INFO:FrameConsumer-2      current: 0.0911 amps	power: 22.7436 watts
+2015-01-25 23:01:34,872: INFO:FrameConsumer-3      current: 0.0759 amps	power: 21.6422 watts
+2015-01-25 23:01:36,902: INFO:FrameConsumer-4      current: 0.0721 amps	power: 22.9094 watts
+2015-01-25 23:01:38,932: INFO:FrameConsumer-5      current: 0.0683 amps	power: 22.0937 watts
+2015-01-25 23:01:40,978: INFO:FrameConsumer-2      current: 0.0797 amps	power: 22.4882 watts
+2015-01-25 23:01:43,008: INFO:FrameConsumer-3      current: 0.0873 amps	power: 21.0963 watts
+2015-01-25 23:01:45,054: INFO:FrameConsumer-4      current: 0.0873 amps	power: 22.4733 watts
+2015-01-25 23:01:47,084: INFO:FrameConsumer-5      current: 0.0797 amps	power: 22.5286 watts
+2015-01-25 23:01:49,114: INFO:FrameConsumer-2      current: 0.0759 amps	power: 24.0068 watts
+2015-01-25 23:01:51,160: INFO:FrameConsumer-3      current: 0.0645 amps	power: 20.4354 watts
+2015-01-25 23:01:53,190: INFO:FrameConsumer-4      current: 0.0797 amps	power: 22.5218 watts
+2015-01-25 23:01:55,236: INFO:FrameConsumer-5      current: 0.0797 amps	power: 19.9488 watts
+2015-01-25 23:01:57,266: INFO:FrameConsumer-2      current: 0.0759 amps	power: 17.8243 watts
+2015-01-25 23:01:59,296: INFO:FrameConsumer-3      current: 0.0797 amps	power: 20.9457 watts
+2015-01-25 23:02:01,342: INFO:FrameConsumer-4      current: 0.0797 amps	power: 23.6913 watts
+2015-01-25 23:02:03,372: INFO:FrameConsumer-5      current: 0.0835 amps	power: 26.2100 watts
+2015-01-25 23:02:05,418: INFO:FrameConsumer-2      current: 0.0721 amps	power: 21.4317 watts
+2015-01-25 23:02:07,448: INFO:FrameConsumer-3      current: 0.0797 amps	power: 21.7476 watts
+2015-01-25 23:02:09,478: INFO:FrameConsumer-4      current: 0.0873 amps	power: 21.5174 watts
+2015-01-25 23:02:11,524: INFO:FrameConsumer-5      current: 0.0911 amps	power: 23.3628 watts
+2015-01-25 23:02:13,554: INFO:FrameConsumer-2      current: 0.0759 amps	power: 20.7797 watts
+2015-01-25 23:02:15,600: INFO:FrameConsumer-3      current: 0.0721 amps	power: 21.8042 watts
